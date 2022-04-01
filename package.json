@@ -1,0 +1,13 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@tsconfig/node16": "^1.0.2"
+  },
+  "dependencies": {
+    "@types/node": "^17.0.23"
+  }
+}

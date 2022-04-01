@@ -15,3 +15,7 @@ Pick a project and `cd` into that folder
 Run one of the scripts using `ts-node`
 
     npx ts-node 06-concurrent-async-processing-handled.ts
+
+Or, to automatically re-run the script as you make changes:
+
+    npx ts-node-dev --respawn 06-concurrent-async-processing-handled.ts
