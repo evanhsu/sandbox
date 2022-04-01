@@ -1,7 +1,7 @@
 import { hasMessage, sleep, sleepThenThrow, Timer } from '../utils';
 
 /**
- * 06-concurrent-async-processing-unhandled
+ * 07-concurrent-async-processing-unhandled
  * Introduce unhandled errors in async edge-cases
  */
 type Thing = {
